@@ -2,3 +2,5 @@ github.com/adiwahyudi02/go-say-hello-module v1.0.0 h1:ebMvjhtaQt8mFFOmh4Kowjwybo
 github.com/adiwahyudi02/go-say-hello-module v1.0.0/go.mod h1:DJ4kWSHynzuzOJOLo3xNetWLf6zqsNikI/dtoVBH/tM=
 github.com/adiwahyudi02/go-say-hello-module v1.1.0 h1:4p095PZfkPwYTk0BHUuXzDwlolFCRlX6NzvjGV8vjBg=
 github.com/adiwahyudi02/go-say-hello-module v1.1.0/go.mod h1:DJ4kWSHynzuzOJOLo3xNetWLf6zqsNikI/dtoVBH/tM=
+github.com/adiwahyudi02/go-say-hello-module/v2 v2.0.0 h1:yvDjDmHDAhnSe7WzjBD4f9Nty7H2Odprwuz0W4z82LY=
+github.com/adiwahyudi02/go-say-hello-module/v2 v2.0.0/go.mod h1:4IXkEEVrPNiGF4G4nYZqRUB1kw6BFB0251swdLotyIs=
